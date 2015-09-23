@@ -1,0 +1,66 @@
+<Solution>
+  <PropertyGroup Name="Login" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="yun.png" />
+        <Image Name="CG-1146.png" />
+        <Image Name="CG-1147.png" />
+        <Image Name="CG-1492.png" />
+        <Image Name="CG-1493.png" />
+        <Image Name="CG-1494.png" />
+        <Image Name="CG-1582.png" />
+        <Image Name="CG-1583.png" />
+        <Image Name="76-5.png" />
+        <Image Name="76-9.png" />
+        <Project Name="State.csd" Type="Scene" />
+        <Image Name="79-1.png" />
+        <Image Name="325.png" />
+        <Image Name="403.png" />
+        <Image Name="zonemap.png" />
+        <Image Name="CG-1087.png" />
+        <Image Name="CG-1088.png" />
+        <Project Name="UI_Hero_State.csd" Type="Scene" />
+        <Project Name="About.csd" Type="Scene" />
+        <Image Name="123.png" />
+        <Image Name="301.png" />
+        <Image Name="37080-1.png" />
+        <Image Name="37080-2.png" />
+        <Image Name="37080-3.png" />
+        <Image Name="37080-4.png" />
+        <Image Name="37080-5.png" />
+        <Image Name="37079-1.png" />
+        <Image Name="37079-2.png" />
+        <Image Name="37079-3.png" />
+        <Image Name="37079-4.png" />
+        <Image Name="37079-5.png" />
+        <Project Name="Node.csd" Type="Node" />
+        <Project Name="Npc1.csd" Type="Node" />
+        <Image Name="37721-1.png" />
+        <Image Name="37727-1.png" />
+        <Image Name="37727-10.png" />
+        <Image Name="37727-11.png" />
+        <Image Name="37727-12.png" />
+        <Image Name="37727-13.png" />
+        <Image Name="37727-14.png" />
+        <Image Name="37727-2.png" />
+        <Image Name="37727-3.png" />
+        <Image Name="37727-4.png" />
+        <Image Name="37727-5.png" />
+        <Image Name="37727-6.png" />
+        <Image Name="37727-7.png" />
+        <Image Name="37727-8.png" />
+        <Image Name="37727-9.png" />
+        <Image Name="37722-1.png" />
+        <Image Name="37722-2.png" />
+        <Image Name="37722-3.png" />
+        <Image Name="37722-4.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Image Name="item_1.png" />
+        <Image Name="chatballoonboss.png" />
+        <Image Name="CG-5519.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
